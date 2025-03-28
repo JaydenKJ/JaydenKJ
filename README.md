@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaydenKJ
 - 👀 I’m interested in html/css
-- 🌱 I’m currently learning css and python (a bit)
+- 🌱 I’m currently learning css and javascript (a bit)
 
 
 <!---
